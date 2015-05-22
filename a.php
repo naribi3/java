@@ -1,3 +1,3 @@
 <?
-	echo "a";
+	echo "hi git";
 ?>
